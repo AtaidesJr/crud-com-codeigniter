@@ -17,8 +17,8 @@ para melhor segurança e separação dos componentes.
 
 ## USUÁRIO & INFORMAÇÕES
 
-Utilizar e-mail : juniorferreira020@gmail.com
-E senha : 123456 , para acessar aplicação 
+Utilizar e-mail : `juniorferreira020@gmail.com`
+E senha : `123456` , para acessar aplicação 
 
 Crud simples onde será 
 possível criar , editar e excluir usuários 
